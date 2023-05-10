@@ -1,1 +1,6 @@
-.cabeçalho{background-color: rgb(230, 154, 217);}
+.corpo-do-site{ 
+background-color: rgb(230, 154, 217); 
+}
+.cabeçalho{ 
+background-image:linear-gradient(rgb(207, 80, 176),rgb(255, 255, 255));
+}

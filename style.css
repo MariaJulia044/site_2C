@@ -2,9 +2,19 @@
     margin: 0%;
     padding: 0%;
 }
+
+.cabeçalho image {
+    width: 12%;
+}
+
+.cabeçalho title{
+    font-size: 34px;
+    padding: 24px;
+}
 .corpo-do-site{ 
 background-color: rgb(230, 154, 217); background-color: rgb(247, 247, 247);
 }
+
 
 
 .cabeçalho{ 

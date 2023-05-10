@@ -1,6 +1,12 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
 .corpo-do-site{ 
 background-color: rgb(230, 154, 217); background-color: rgb(241, 95, 198);
 }
+
+
 .cabeçalho{ 
 background-image:linear-gradient(rgb(253, 249, 252),rgb(233, 96, 210));
 }

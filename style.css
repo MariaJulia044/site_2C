@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 10%;
+    margin: 2%;
+    padding: 2%;
     }
     
     .cabeçalho{
@@ -9,20 +9,20 @@
     display:flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 50px 0;
     }
     
     .cabeçalho_imagem{
-    width: 50%;
+    width: 20%;
     }
     
     .cabeçalho_titulo{
-    font-size: 80px;
+    font-size: 50px;
     }
     
     .cabeçalho_lista_item{
-    margin: 25px 0px 25px 0px;
-    font-size: 16px;
+    margin: 5px 10px 30px 5px;
+    font-size: 20px;
     }
     
     .apresentaçao_trabalho{
@@ -30,7 +30,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 50px 0;
     }
     
     .titulo_apresentaçao_trabalho{
@@ -38,9 +38,8 @@
     }
     
     .img1{
-    width: 50%;
+    width: 40%;
     }
     .img3{
-    width:50% ;
+    width:40%;
     }
-    

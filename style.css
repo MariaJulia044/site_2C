@@ -46,3 +46,7 @@
     align-items: center;
     padding: 50px 0;
     }
+
+    .tamanho_texto{
+        font-size: 15px;
+    }

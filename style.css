@@ -48,7 +48,7 @@
     }
 
     .tamanho_texto{
-        font-size: 15px;
+        font-size: 30px;
     }
 
     .SEMANA_2{
@@ -57,4 +57,5 @@
     display:flex;
     align-items: center;
     padding: 50px 0;
+    font-size: 30px;
     }
